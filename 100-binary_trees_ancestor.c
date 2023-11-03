@@ -1,12 +1,12 @@
 #include "binary_trees.h"
 
 /**
- * binary_trees_ancestor - Function that finds the LC ancestor of
+ * binary_trees_ancestor - This is the Function that finds the LC ancestor of
  * two nodes
- * @first: Pointer to the first node
- * @second: Pointer to the second node
+ * @first: This is the Pointer to the first node
+ * @second: This is the Pointer to the second node
  *
- * Return: Your function must return a pointer to the lowest
+ * Return: The expected function must return a pointer to the lowest
  * common ancestor node of the two given node. If no common
  * ancestor was found, return NULL
  */

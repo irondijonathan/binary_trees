@@ -2,11 +2,11 @@
 #include "binary_trees.h"
 
 /**
- * count_nodes - counts the nodes of a binary tree
- * @tree: pointer to the current node
- * @count: pointer to the total count
+ * count_nodes - This counts the nodes of a binary tree
+ * @tree: This is the pointer to the current node
+ * @count: This is the pointer to the total count
  *
- * Return: void
+ * Return: Returns void
  */
 void count_nodes(const binary_tree_t *tree, size_t *count)
 {

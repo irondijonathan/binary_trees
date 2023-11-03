@@ -2,12 +2,12 @@
 #include "binary_trees.h"
 
 /**
- * is_perfect - checks if a binary tree is perfect
- * @tree: the root of the binary tree
- * @depth: the current depth of the node
- * @d: pointer to the minimum depth
+ * is_perfect - This checks if a binary tree is perfect
+ * @tree: This is the root of the binary tree
+ * @depth: This is the current depth of the node
+ * @d: This is the pointer to the minimum depth
  *
- * Return: 1 if the tree if perfect, else 0
+ * Return: Return 1 if the tree is perfect, else 0
  */
 int is_perfect(const binary_tree_t *tree, int depth, int *d)
 {
@@ -31,10 +31,10 @@ int is_perfect(const binary_tree_t *tree, int depth, int *d)
 }
 
 /**
- * binary_tree_is_perfect - checks if a binary tree is perfect
- * @tree: the root node of the tree
+ * binary_tree_is_perfect - This checks if a binary tree is perfect
+ * @tree: This is the root node of the tree
  *
- * Return: 1 if perfect, 0 otherwise
+ * Return: RETURN 1 if perfect, 0 otherwise
  */
 int binary_tree_is_perfect(const binary_tree_t *tree)
 {

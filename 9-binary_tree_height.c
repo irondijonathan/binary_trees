@@ -2,12 +2,12 @@
 #include "binary_trees.h"
 
 /**
- * find_height - finds the height of a binary tree
- * @tree: pointer to the root node
- * @h: length of edges traversed so far
- * @height: pointer to the maximum height found
+ * find_height - This finds the height of a binary tree
+ * @tree: This is the pointer to the root node
+ * @h: This is the length of edges traversed so far
+ * @height: This is the pointer to the maximum height found
  *
- * Return: void
+ * Return: Returns void
  */
 void find_height(const binary_tree_t *tree, size_t h, size_t *height)
 {

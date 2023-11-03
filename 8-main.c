@@ -3,9 +3,9 @@
 #include "binary_trees.h"
 
 /**
- * print_num - Prints a number
+ * print_num - This Prints a number
  *
- * @n: Number to be printed
+ * @n: This is the Number to be printed
  */
 void print_num(int n)
 {
@@ -13,9 +13,9 @@ void print_num(int n)
 }
 
 /**
- * main - Entry point
+ * main - This is the Entry point
  *
- * Return: Always 0 (Success)
+ * Return: The return is Always 0 (Success)
  */
 int main(void)
 {

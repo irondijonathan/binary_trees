@@ -3,10 +3,10 @@
 #include "binary_trees.h"
 
 /**
- * launch_test - Test ancestor function and print informations
+ * launch_test - This is the Test ancestor function and print informations
  *
- * @n1: First node
- * @n2: Second node
+ * @n1: This is the First node
+ * @n2: This is the Second node
  */
 void launch_test(binary_tree_t *n1, binary_tree_t *n2)
 {
@@ -21,9 +21,9 @@ void launch_test(binary_tree_t *n1, binary_tree_t *n2)
 }
 
 /**
- * main - Entry point
+ * main - This is the Entry point
  *
- * Return: Always 0 (Success)
+ * Return: This returns Always 0 (Success)
  */
 int main(void)
 {

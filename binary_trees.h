@@ -4,12 +4,12 @@
 #include <stddef.h>
 
 /**
- * struct binary_tree_s - Binary tree node
+ * struct binary_tree_s - This is the Binary tree node
  *
- * @n: Integer stored in the node
- * @parent: Pointer to the parent node
- * @left: Pointer to the left child node
- * @right: Pointer to the right child node
+ * @n: This is the Integer stored in the node
+ * @parent: This is the Pointer to the parent node
+ * @left: This is the Pointer to the left child node
+ * @right: This is the Pointer to the right child node
  */
 struct binary_tree_s
 {

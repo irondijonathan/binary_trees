@@ -3,9 +3,9 @@
 #include "binary_trees.h"
 
 /**
- * main - Entry point
+ * main - This is the Entry point
  *
- * Return: Always 0 (Success)
+ * Return: The return is Always 0 (Success)
  */
 int main(void)
 {
